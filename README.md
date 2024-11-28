@@ -14,32 +14,32 @@ _Collaborate and work together on GitHub._
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 1: Open a pull request
+## Finish
 
-_Welcome to "Review pull requests"! :wave:_
+_Congratulations friend, you've completed this course!_
 
-Let's get started by opening a pull request.
+<img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
-**What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
+As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
 
-### :keyboard: Activity: Create a pull request
+Here's a recap of all the tasks you've accomplished in your repository:
 
-1. Click on the **Pull requests** tab in your repository.
-2. Click **New pull request**.
-3. In the **base:** dropdown, make sure **main** is selected.
-4. Select the **compare:** dropdown, and click `update-game`.
-5. Click **Create pull request**.
-6. Enter a title for your pull request: `Update the game over message`.
-7. Enter a description for your pull request: `Update the game over message so people know how to play again!`
-8. Click **Create pull request**.
-9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- You learned how to assign pull requests for review.
+- You left a review on a pull request.
+- You suggested changes to a pull request.
+- You applied suggested changes to a pull request.
+
+### What's next?
+
+- Try adding a [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file to your project to automatically assign reviewers to pull requests.
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
